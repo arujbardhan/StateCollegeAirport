@@ -1,2 +1,2 @@
 # StateCollegeAirport
-State College Airport GUI Interfac
+State College Airport GUI Interface
